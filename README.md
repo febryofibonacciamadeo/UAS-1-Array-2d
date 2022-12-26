@@ -16,6 +16,7 @@ Program dari source code adalah untuk membuat array 2D menggunakan bahasa pemogr
 
 ## Source Code
 <code>
+
 #include <iostream>
 
 #include <conio.h>
@@ -59,3 +60,4 @@ int main () {
 </code>
 
 ## Output
+![uas 1](https://user-images.githubusercontent.com/115018736/209485758-389ebb5b-05ee-4520-ba98-54a4c6a37a59.png)
